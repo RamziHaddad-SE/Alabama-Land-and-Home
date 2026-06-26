@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Alabama Land & Home">
+  <rect width="48" height="48" rx="10" fill="#284a33"/>
+  <path d="M3 40 Q15 31 24 35 T45 39 V45 H3 Z" fill="#41714f"/>
+  <path d="M15 34V23l9-6 9 6v11" fill="none" stroke="#f6f1e6" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M13 24l11-7 11 7" fill="none" stroke="#b5482e" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="21.5" y="28" width="5" height="6" rx="0.5" fill="#b5482e"/>
+</svg>
